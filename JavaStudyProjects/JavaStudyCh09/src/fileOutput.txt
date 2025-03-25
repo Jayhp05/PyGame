@@ -1,0 +1,2 @@
+파일에서 바이트 단위로 읽어 들이는 FileInputStream
+FileInputStream은 byte 기반 스트림 이다.

@@ -1,0 +1,2 @@
+InputStreamReader와 OutputStreamWriter는 바이트기반 스트림을
+문자기반 스트림으로 변환해 주는 역할을 하는 스트림 이다.
